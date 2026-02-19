@@ -1,0 +1,24 @@
+{
+  "name": "FarFood - Planificador de Dieta",
+  "short_name": "FarFood",
+  "description": "Planificador inteligente de dieta con cálculo automático de porciones",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f1017",
+  "theme_color": "#6366f1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
